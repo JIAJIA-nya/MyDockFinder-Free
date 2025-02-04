@@ -9,5 +9,4 @@ https://www.mydockfinder.com
 <a href="https://store.steampowered.com/app/1787090/MyDockFinder/"><img src="https://user-images.githubusercontent.com/32895737/141609490-4cd01778-dcda-4be9-8913-13a21bd88b68.jpg" alt="Steam Download" width="400"></a>
 
 ## 其他
-版本：1.9.9.9
-Source:https://www.52pojie.cn/thread-1958533-1-1.html
+默认中文 <br />版本：1.9.9.9 <br />Source:https://www.52pojie.cn/thread-1958533-1-1.html
